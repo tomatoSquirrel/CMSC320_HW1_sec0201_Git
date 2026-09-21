@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: As someone who has worked in cure research, data science can and is very much applied to health care. Drug discovery and research involves a lot of data handling, looking at enormous sets of genetic and biological data along with new AI models being used in molecule design and structure predicting. 
