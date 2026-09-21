@@ -6,3 +6,9 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: As someone who has worked in cure research, data science can and is very much applied to health care. Drug discovery and research involves a lot of data handling, looking at enormous sets of genetic and biological data along with new AI models being used in molecule design and structure predicting. 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the original history of changes whereas rebase completely rewrites the history to create a more linear timeline. Rebase makes the project history easier to read, but it has the potential to cause issues for your teammates by changing commit IDs
+Q4: What are you looking forward to this semester?
+
+Answer: TECHNICA!!!!! RAHHHHHHHH
